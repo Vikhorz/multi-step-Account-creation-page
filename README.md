@@ -1,7 +1,7 @@
 # Multi-step-Account-creation-page
 - Account creation Page with multiple steps, Cool design with smooth Transitions, and Gradient progress bar, made with HTML-CSS-JS.
 
-# Preview of the Page 
+## Preview of the Page 
 
 - Step 1
 ![sc1](https://user-images.githubusercontent.com/76783878/136269166-9f8866d3-11a5-4f4b-8d37-848119585ba6.jpg)
